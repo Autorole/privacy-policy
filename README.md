@@ -6,12 +6,11 @@ The use of this application ("Bot") in a server requires the collection of some 
 
 The Bot my store following information automatically when being invited to a new Discord server:
 
-- Server's ID as value
-- Role ID's as values
-- User ID's as values, until they accept the Server's rules (only on Community Servers)
-- Channel ID's as values
-- Message ID's as values
-- Emojo ID's as values
+- Server ID
+- Role ID
+- Channel ID
+- Message ID
+- Emojo ID
 
 ## Access to Data
 
@@ -19,7 +18,7 @@ Access to Data is only permitted to Bot's developers, and only in the scope requ
 
 ## Storage of Data
 
-Data is stored in a MongoDB database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
+Data is stored in a database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorised Data access, users will be notified through the Discord client application.
 
 ## User Rights
 
