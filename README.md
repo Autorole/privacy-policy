@@ -23,7 +23,7 @@ Data is stored in a MongoDB database. The database is secured to prevent externa
 
 ## User Rights
 
-At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Support Server](https://discord.gg/hnGRp2Y) or by contactting <autorole.bot@gmail.com>. You have the right to request the removal of relevant Data. In addition, all user-related Data will be deleted automatically by removing the Bot from your server.
+At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through the [Support Server](https://discord.gg/hnGRp2Y) or by contacting <autorole.bot@gmail.com>. You have the right to request the removal of relevant Data. In addition, all user-related Data will be deleted automatically by removing the Bot from your server.
 
 ## Questions
 
